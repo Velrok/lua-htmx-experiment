@@ -1,3 +1,3 @@
 .PHONY: run_server
-run_server: button.lua
+run_server:
 	lua server.lua
